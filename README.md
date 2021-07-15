@@ -41,3 +41,6 @@ $ yarn start
 # Uma página sera aberta em http://localhost:3000
 
 ```
+
+<h3>Deploy do Projeto</h3>
+<a href="https://teste-corebiz-ecommerce.vercel.app/">Link</a>
