@@ -2,7 +2,7 @@
 
 <h3>Apresentação do Projeto</h3>
 
-<img src="../src/assets/github.gif" alt="gif do projeto" />
+<img src="./src/assets/github.gif" alt="gif do projeto" />
 
 <h3>Descrição</h3>
 
