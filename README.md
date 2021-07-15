@@ -28,7 +28,7 @@
 # Clone este projeto
 $ git clone https://github.com/guisantanaa/teste-corebiz-ecommerce
 
-# Entre na pasta corebiz-ecommerce
+# Entre na pasta teste-corebiz-ecommerce
 $ cd teste-corebiz-ecommerce
 $ Execute o comando 'code .' e o projeto sera aberto no Visual Studio Code
 
